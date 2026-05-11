@@ -1,0 +1,11 @@
+{
+  "name": "Feishu Wiki Navigator Skill Pack",
+  "price": 19,
+  "currency": "USD",
+  "tier": "Tier 1",
+  "type": "skill-pack",
+  "target_audience": [
+    "Feishu users",
+    "knowledge managers"
+  ]
+}
